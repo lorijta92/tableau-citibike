@@ -30,6 +30,12 @@ Despite efforts to filter out fraudulent records from the data set, I still foun
 * Continue marketing campaigns to encourage female ridership.
 * Check all bikes with trip durations under 90 seconds and the same starting and ending stations for any needed repairs. 
 
+There is steady ridership growth across user types and gender, suggesting a healthy demand for CitiBikes. Current year-to-date growth rates also suggest a growing market for short-term rentals and female users. Therefore, recommendations would be to focus marketing campaigns towards those users.
+
+Assuming that users use a day pass or annual subscription to its max capacity (48 rides in 24 hours for day pass users, 11,680 rides per year for subscribers), each ride costs $0.25 under a day pass, and $0.01 under an annual subscription. Therefore, short-term users are more profitable per ride, especially when also considering that “time overages” are also charged at a higher rate ($4 per 15 minutes) than subscribers ($2.50 per 15 minutes).
+
+Females also make up 51% of the Jersey City population [source]( http://worldpopulationreview.com/us-cities/jersey-city-population/). Yet, only 40% of Jersey City females use CitiBike, leaving over 80,000 potential local users. 
+
 ## Further Analysis
 For further analysis, I would look at the bike and station ids of all the rows that were dropped from this data set for any trends. Are the same bikes being stolen? Or are bikes being stolen from the same station? Do either these bikes or stations need to be serviced to prevent theft? 
 I would also look into why there are so many “unknown” 50-year old users. Are these just default parameters of the app (gender set to unknown and birth year set to 1969)? Or are there and commonalities in the records of these users?
