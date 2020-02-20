@@ -1,7 +1,7 @@
 # Tableau CitiBike: January 2019 - August 2019
 
 ## Goal
-Analyze CitiBike data between January and August 2019 for trends and visualize them using Tableau Public. View the Tableau Public workbook [here](https://public.tableau.com/profile/lori.ta3006#!/vizhome/CitibikeAnalysis_15707462011320/Story1).
+Analyze CitiBike data between January and August 2019 for trends and visualize them using Tableau Public. View the Tableau Public workbook [here](https://public.tableau.com/profile/lori.ta3006#!/vizhome/CitibikeAnalysis_15707462011320/Story1) (it may take a moment to load).
 
 ## Data Cleaning
 
